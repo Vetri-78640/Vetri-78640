@@ -4,6 +4,6 @@
 	•	💞️ I’m looking to collaborate on impactful tech projects and smart systems
 	•	📫 How to reach me: [Your preferred contact or portfolio link]
 	•	⚡ Fun fact: I like my code minimal—no comments, no fluff, just logic
-Vetri-78640/Vetri-78640 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+“I’m Vetri — a computer science and AI professional with a deep interest in creative fields like photography, videography, post-production, and cooking. My research focus lies in computer networking and cybersecurity, and I have prior experience in UI/UX design. I’m also an audiophile with a passion for collecting high-resolution, lossless audio — especially FLAC libraries — and I deeply appreciate the beauty of nature.
+
+Helping others is a core part of who I am, and I’m known for my versatile communication skills — whether it’s through everyday conversation or more strategic, ‘spy-level’ interactions. Cooking, to me, is an art form I’ve grown to love. And one of the quotes I live by is: ’It’s not a random thing I capture — sometimes, it’s the moment that demands me to capture it.’”
