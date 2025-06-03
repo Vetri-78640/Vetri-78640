@@ -1,4 +1,4 @@
-👋 Hi, I’m @Vetri-78640
+👋 Hi, I’m @Vetri-78640.
 👀 I’m interested in building innovative tech, automation, front-end design (especially React), photography, and AI/ML.
 🌱 I’m currently learning advanced React, DSA, Trees, and probability for AI/DS.
 💞️ I’m looking to collaborate on real-world web apps (like real estate platforms), chatbot builders, or any project involving clean UI/UX, automation, or AI.
