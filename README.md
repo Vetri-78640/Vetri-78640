@@ -2,7 +2,7 @@
 	•	👀 I’m interested in solving real-world problems with tech and automation
 	•	🌱 I’m currently learning DSA, AI/ML, and Back-End development
 	•	💞️ I’m looking to collaborate on impactful tech projects and smart systems
-	•	📫 How to reach me: [Your preferred contact or portfolio link]
+	•	📫 How to reach me: https://vetri-78640.github.io/Portfolio/
 	•	⚡ Fun fact: I like my code minimal—no comments, no fluff, just logic
 “I’m Vetri — a computer science and AI professional with a deep interest in creative fields like photography, videography, post-production, and cooking. My research focus lies in computer networking and cybersecurity, and I have prior experience in UI/UX design. I’m also an audiophile with a passion for collecting high-resolution, lossless audio — especially FLAC libraries — and I deeply appreciate the beauty of nature.
 
