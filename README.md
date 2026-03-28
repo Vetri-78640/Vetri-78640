@@ -1,4 +1,4 @@
-	•	👋 Hi, I’m @Vetri-78640
+	•	👋 Hi, I’m Vetri
 	•	👀 I’m interested in solving real-world problems with tech and automation
 	•	🌱 I’m currently learning DSA, AI/ML, and Back-End development
 	•	💞️ I’m looking to collaborate on impactful tech projects and smart systems
