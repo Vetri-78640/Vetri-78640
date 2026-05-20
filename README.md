@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Vetriselvan+R;Deep+Learning+%7C+Agentic+AI+%7C+LLM+Systems;Top+4+%40+IIT+Delhi+ANRF+Hack+2026;Meta+ScalerHack+2026+-+Finalist;Building+systems+that+think.)](https://vetri.tech)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Vetriselvan+R;Deep+Learning+%7C+Agentic+AI+%7C+LLM+Systems;Top+4+%40+IIT+Delhi+ANRF+Hack+2026;Meta+PyTorch+OpenEnv+Hack+2026+-+Finalist;Building+systems+that+think.)](https://vetri.tech)
 
 </div>
 
@@ -33,7 +33,7 @@ class Vetriselvan:
     ]
     wins = [
         "Top 4   · IIT Delhi ANRF AI-SE Hack 2026  - ResGRU-UNet PM2.5 forecasting",
-        "Finalist · Meta ScalerHack 2026            - SRE OpenEnv infrastructure agent",
+        "Finalist · Meta PyTorch OpenEnv Hack 2026  - SRE OpenEnv infrastructure agent",
         "Top 5   · ANRF Phase 1 Online              - #5 / 77 teams",
     ]
     open_to = "Internships and new-grad roles · Aug 2026"
@@ -79,7 +79,7 @@ class Vetriselvan:
 |---|---|---|
 | [PM2.5 Forecasting](https://github.com/Vetri-78640/AISEHack-2026) | ResGRU-UNet · gridded pollution 6h ahead | **Top 4**, score 0.8834 |
 | [ARM-Gym](https://github.com/ka-ori/arm-gym) | GRPO RL compiler optimizer for ARM AArch64 | **+14.5%** over clang -O3 |
-| [SRE Incident Responder](https://github.com/Vetri-78640/sre-incident-responder) | OpenEnv · real Redis + PostgreSQL · 5 tasks | **Finalist** ScalerHack |
+| [SRE Incident Responder](https://github.com/Vetri-78640/sre-incident-responder) | OpenEnv · real Redis + PostgreSQL · 5 tasks | **Finalist** Meta PyTorch OpenEnv Hack |
 | [Credit Risk Scoring](https://github.com/Vetri-78640/Credit_Risk_Scoring_GenAI) | LangGraph + RAG over RBI / SEBI guidelines | recall **0.41 → 0.65** |
 | [FinNuvora](https://github.com/Vetri-78640/FinNuvora) | AI finance · Plaid sync · Gemini doc intel | Full-stack · deployed |
 
