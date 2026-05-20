@@ -1,5 +1,5 @@
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a0533,50:6d28d9,100:c084fc&height=150&section=header&text=VETRISELVAN+R&fontColor=ffffff&fontSize=36&fontAlignY=48&desc=AI+Researcher+%C2%B7+Systems+Engineer&descAlignY=72&descSize=14&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,100:a855f7&height=140&section=header&text=VETRISELVAN+R&fontColor=ffffff&fontSize=36&fontAlignY=46&desc=AI+Researcher+%C2%B7+Systems+Engineer&descAlignY=68&descSize=14&animation=fadeIn"/>
 </picture>
 
 <div align="center">
@@ -129,5 +129,5 @@ class Vetriselvan:
 </div>
 
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:c084fc,50:6d28d9,100:1a0533&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:3b0764&height=100&section=footer"/>
 </picture>
