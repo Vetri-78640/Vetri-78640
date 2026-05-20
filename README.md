@@ -1,10 +1,10 @@
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,100:1f0050&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a0533,50:6d28d9,100:c084fc&height=150&section=header&text=VETRISELVAN+R&fontColor=ffffff&fontSize=36&fontAlignY=48&desc=AI+Researcher+%C2%B7+Systems+Engineer&descAlignY=72&descSize=14&animation=fadeIn"/>
 </picture>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Vetriselvan+R;Deep+Learning+%7C+Agentic+AI+%7C+LLM+Systems;Top+4+%40+IIT+Delhi+ANRF+Hack+2026;Meta+PyTorch+OpenEnv+Hack+2026+-+Finalist;Building+systems+that+think.)](https://vetri.tech)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=AI+Researcher+%C2%B7+Systems+Engineer;Top+4+%40+IIT+Delhi+ANRF+Hack+2026;Meta+PyTorch+OpenEnv+Hack+2026+-+Finalist;ship+it+%C2%B7+measure+it+%C2%B7+make+it+faster)](https://vetri.tech)
 
 </div>
 
@@ -25,6 +25,7 @@
 
 ```python
 class Vetriselvan:
+    role     = ["AI Researcher", "Systems Engineer"]
     location = "Delhi NCR, India"
     focus    = ["Deep Learning", "Agentic AI", "LLM Systems", "Reinforcement Learning"]
     building = [
@@ -37,7 +38,7 @@ class Vetriselvan:
         "Top 5   · ANRF Phase 1 Online              - #5 / 77 teams",
     ]
     open_to = "Internships and new-grad roles · Aug 2026"
-    belief  = "ship it, measure it, make it faster"
+    belief  = "research the gap, build the fix, measure the delta"
 ```
 
 ---
@@ -128,5 +129,5 @@ class Vetriselvan:
 </div>
 
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f0050,100:0a0014&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:c084fc,50:6d28d9,100:1a0533&height=100&section=footer"/>
 </picture>
