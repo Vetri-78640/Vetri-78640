@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Top+4+%40+IIT+Delhi+ANRF+Hack+2026;Meta+ScalerHack+2026+%E2%80%94+Finalist;ARM-Gym+Contributor+%E2%80%94+%2B14.5%25+over+clang+-O3;Building+systems+that+think.)](https://vetri.tech)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Top+4+%40+IIT+Delhi+ANRF+Hack+2026;Meta+ScalerHack+2026+-+Finalist;ARM-Gym+Contributor+-+%2B14.5%25+over+clang+-O3;Building+systems+that+think.)](https://vetri.tech)
 
 </div>
 
@@ -28,13 +28,13 @@ class Vetriselvan:
     location = "Delhi NCR, India"
     focus    = ["Deep Learning", "Agentic AI", "LLM Systems", "Reinforcement Learning"]
     building = [
-        "ARM-Gym     — GRPO RL compiler optimizer for ARM AArch64",
-        "SRE-OpenEnv — agent training env on real Redis + PostgreSQL",
+        "ARM-Gym     - GRPO RL compiler optimizer for ARM AArch64",
+        "SRE-OpenEnv - agent training env on real Redis + PostgreSQL",
     ]
     wins = [
-        "Top 4   · IIT Delhi ANRF AI-SE Hack 2026  — ResGRU-UNet PM2.5 forecasting",
-        "Finalist · Meta ScalerHack 2026            — SRE OpenEnv infrastructure agent",
-        "Top 5   · ANRF Phase 1 Online              — #5 / 77 teams",
+        "Top 4   · IIT Delhi ANRF AI-SE Hack 2026  - ResGRU-UNet PM2.5 forecasting",
+        "Finalist · Meta ScalerHack 2026            - SRE OpenEnv infrastructure agent",
+        "Top 5   · ANRF Phase 1 Online              - #5 / 77 teams",
     ]
     open_to = "Internships and new-grad roles · Aug 2026"
     belief  = "ship it, measure it, make it faster"
@@ -75,22 +75,22 @@ class Vetriselvan:
 
 ## Featured Work
 
-|  | Project | What | Key result |
-|---|---|---|---|
-| 🧠 | [PM2.5 Forecasting](https://github.com/Vetri-78640/AISEHack-2026) | ResGRU-UNet · gridded pollution 6h ahead | **Top 4**, score 0.8834 |
-| ⚙️ | [ARM-Gym](https://github.com/ka-ori/arm-gym) | GRPO RL compiler optimizer for ARM AArch64 | **+14.5%** over clang -O3 |
-| 🤖 | [SRE Incident Responder](https://github.com/Vetri-78640/sre-incident-responder) | OpenEnv · real Redis + PostgreSQL · 5 tasks | **Finalist** ScalerHack |
-| 💳 | [Credit Risk Scoring](https://github.com/Vetri-78640/Credit_Risk_Scoring_GenAI) | LangGraph + RAG over RBI / SEBI guidelines | recall **0.41 → 0.65** |
-| 🏦 | [FinNuvora](https://github.com/Vetri-78640/FinNuvora) | AI finance · Plaid sync · Gemini doc intel | Full-stack · deployed |
+| Project | What | Key result |
+|---|---|---|
+| [PM2.5 Forecasting](https://github.com/Vetri-78640/AISEHack-2026) | ResGRU-UNet · gridded pollution 6h ahead | **Top 4**, score 0.8834 |
+| [ARM-Gym](https://github.com/ka-ori/arm-gym) | GRPO RL compiler optimizer for ARM AArch64 | **+14.5%** over clang -O3 |
+| [SRE Incident Responder](https://github.com/Vetri-78640/sre-incident-responder) | OpenEnv · real Redis + PostgreSQL · 5 tasks | **Finalist** ScalerHack |
+| [Credit Risk Scoring](https://github.com/Vetri-78640/Credit_Risk_Scoring_GenAI) | LangGraph + RAG over RBI / SEBI guidelines | recall **0.41 → 0.65** |
+| [FinNuvora](https://github.com/Vetri-78640/FinNuvora) | AI finance · Plaid sync · Gemini doc intel | Full-stack · deployed |
 
 ---
 
 ## Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Vetri-78640&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Vetri-78640&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"/>
   &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vetri-78640&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vetri-78640&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400"/>
 </div>
 
 <div align="center">
