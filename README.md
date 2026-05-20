@@ -1,10 +1,118 @@
-		 Hi, I’m Vetri
-		 I’m interested in solving real-world problems with tech and automation
-		 I’m currently learning DSA, AI/ML, and Back-End development
-		 I’m looking to collaborate on impactful tech projects and smart systems
-		 How to reach me: LinkedIn | Instagram 
-		 Fun fact: I like my code minimal—no comments, no fluff, just logic
-A computer science and AI professional with a deep interest in creative fields. My research focus lies in AI/ML and computer networking.
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=140&section=header&text=Vetriselvan+R&fontColor=ffffff&fontSize=38&fontAlignY=45&desc=Deep+Learning+%7C+Agentic+AI+%7C+LLM+Systems&descAlignY=68&descSize=15&animation=fadeIn"/>
+</picture>
 
+<div align="center">
 
-[![An image of @vetri78640's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vetri78640)](https://holopin.io/@vetri78640)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Top+4+%40+IIT+Delhi+ANRF+Hack+2026;Meta+ScalerHack+2026+%E2%80%94+Finalist;ARM-Gym+Contributor+%E2%80%94+%2B14.5%25+over+clang+-O3;Building+systems+that+think.)](https://vetri.tech)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://vetri.tech"><img src="https://img.shields.io/badge/Portfolio-vetri.tech-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/vetriselvan-r/"><img src="https://img.shields.io/badge/LinkedIn-vetriselvan--r-0077b5?style=for-the-badge&logo=linkedin"/></a>&nbsp;
+  <a href="https://www.kaggle.com/imvetri0"><img src="https://img.shields.io/badge/Kaggle-imvetri0-20beff?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
+  <a href="https://leetcode.com/Vetri-78640"><img src="https://img.shields.io/badge/LeetCode-Vetri--78640-ffa116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</div>
+
+<br/>
+
+---
+
+## `$ whoami`
+
+```python
+class Vetriselvan:
+    location = "Delhi NCR, India"
+    focus    = ["Deep Learning", "Agentic AI", "LLM Systems", "Reinforcement Learning"]
+    building = [
+        "ARM-Gym     — GRPO RL compiler optimizer for ARM AArch64",
+        "SRE-OpenEnv — agent training env on real Redis + PostgreSQL",
+    ]
+    wins = [
+        "Top 4   · IIT Delhi ANRF AI-SE Hack 2026  — ResGRU-UNet PM2.5 forecasting",
+        "Finalist · Meta ScalerHack 2026            — SRE OpenEnv infrastructure agent",
+        "Top 5   · ANRF Phase 1 Online              — #5 / 77 teams",
+    ]
+    open_to = "Internships and new-grad roles · Aug 2026"
+    belief  = "ship it, measure it, make it faster"
+```
+
+---
+
+## Tech Stack
+
+**Deep Learning & ML**
+
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**LLM / Agents**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-0ea5e9?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-ffd21e?style=flat-square&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-f55036?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white)
+
+**Languages & Web**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## Featured Work
+
+|  | Project | What | Key result |
+|---|---|---|---|
+| 🧠 | [PM2.5 Forecasting](https://github.com/Vetri-78640/AISEHack-2026) | ResGRU-UNet · gridded pollution 6h ahead | **Top 4**, score 0.8834 |
+| ⚙️ | [ARM-Gym](https://github.com/ka-ori/arm-gym) | GRPO RL compiler optimizer for ARM AArch64 | **+14.5%** over clang -O3 |
+| 🤖 | [SRE Incident Responder](https://github.com/Vetri-78640/sre-incident-responder) | OpenEnv · real Redis + PostgreSQL · 5 tasks | **Finalist** ScalerHack |
+| 💳 | [Credit Risk Scoring](https://github.com/Vetri-78640/Credit_Risk_Scoring_GenAI) | LangGraph + RAG over RBI / SEBI guidelines | recall **0.41 → 0.65** |
+| 🏦 | [FinNuvora](https://github.com/Vetri-78640/FinNuvora) | AI finance · Plaid sync · Gemini doc intel | Full-stack · deployed |
+
+---
+
+## Stats
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Vetri-78640&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+  &nbsp;
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vetri-78640&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Vetri-78640&theme=github-dark&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vetri-78640/Vetri-78640/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vetri-78640/Vetri-78640/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Vetri-78640/Vetri-78640/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vetri-78640&style=flat-square&color=0ea5e9&label=profile+views"/>
+</div>
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer"/>
+</picture>
