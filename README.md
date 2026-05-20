@@ -1,17 +1,17 @@
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=140&section=header&text=Vetriselvan+R&fontColor=ffffff&fontSize=38&fontAlignY=45&desc=Deep+Learning+%7C+Agentic+AI+%7C+LLM+Systems&descAlignY=68&descSize=15&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,100:1f0050&height=120&section=header"/>
 </picture>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Top+4+%40+IIT+Delhi+ANRF+Hack+2026;Meta+ScalerHack+2026+-+Finalist;ARM-Gym+Contributor+-+%2B14.5%25+over+clang+-O3;Building+systems+that+think.)](https://vetri.tech)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Vetriselvan+R;Deep+Learning+%7C+Agentic+AI+%7C+LLM+Systems;Top+4+%40+IIT+Delhi+ANRF+Hack+2026;Meta+ScalerHack+2026+-+Finalist;Building+systems+that+think.)](https://vetri.tech)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://vetri.tech"><img src="https://img.shields.io/badge/Portfolio-vetri.tech-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+  <a href="https://vetri.tech"><img src="https://img.shields.io/badge/Portfolio-vetri.tech-a855f7?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/vetriselvan-r/"><img src="https://img.shields.io/badge/LinkedIn-vetriselvan--r-0077b5?style=for-the-badge&logo=linkedin"/></a>&nbsp;
   <a href="https://www.kaggle.com/imvetri0"><img src="https://img.shields.io/badge/Kaggle-imvetri0-20beff?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
   <a href="https://leetcode.com/Vetri-78640"><img src="https://img.shields.io/badge/LeetCode-Vetri--78640-ffa116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
@@ -55,7 +55,7 @@ class Vetriselvan:
 
 **LLM / Agents**
 
-![LangGraph](https://img.shields.io/badge/LangGraph-0ea5e9?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-a855f7?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-ffd21e?style=flat-square&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-f55036?style=flat-square&logoColor=white)
@@ -88,13 +88,27 @@ class Vetriselvan:
 ## Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Vetri-78640&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vetri-78640&theme=github_dark" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vetri-78640&theme=github_dark" height="160"/>
   &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vetri-78640&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vetri-78640&theme=github_dark" height="160"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vetri-78640&theme=github_dark" height="160"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Vetri-78640&theme=github-dark&hide_border=true"/>
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vetri-78640&theme=react-dark&hide_border=true&area=true&color=a855f7&line=a855f7&point=c084fc" width="100%"/>
 </div>
 
 ---
@@ -110,9 +124,9 @@ class Vetriselvan:
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vetri-78640&style=flat-square&color=0ea5e9&label=profile+views"/>
+  <img src="https://komarev.com/ghpvc/?username=Vetri-78640&style=flat-square&color=a855f7&label=profile+views"/>
 </div>
 
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f0050,100:0a0014&height=100&section=footer"/>
 </picture>
