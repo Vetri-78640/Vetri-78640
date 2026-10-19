@@ -104,9 +104,9 @@ class Vetriselvan:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vetri-78640&theme=github_dark&title_color=ffffff&text_color=b1bac4&bg_color=0d1117&border_color=30363d&icon_color=e6edf3&chart_color=ffffff" height="160"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vetri-78640&theme=github_dark&title_color=ffffff&text_color=b1bac4&bg_color=0d1117&border_color=30363d&icon_color=e6edf3&chart_color=ffffff" height="160"/>
+  <img src="https://raw.githubusercontent.com/Vetri-78640/Vetri-78640/output/top-languages-by-repo.svg" height="160"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vetri-78640&theme=github_dark&title_color=ffffff&text_color=b1bac4&bg_color=0d1117&border_color=30363d&icon_color=e6edf3&chart_color=ffffff" height="160"/>
+  <img src="https://raw.githubusercontent.com/Vetri-78640/Vetri-78640/output/top-languages-by-commit.svg" height="160"/>
 </div>
 
 <div align="center">
