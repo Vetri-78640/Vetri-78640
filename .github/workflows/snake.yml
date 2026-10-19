@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -15,12 +15,22 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#111111&color_dots=#ebedf0,#c9c9c9,#949494,#5c5c5c,#111111
             dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#161b22,#3f3f3f,#737373,#b3b3b3,#ffffff
+
+      # The stock language donuts colour their slices from a fixed GitHub
+      # language palette that no theme parameter overrides, so render them here.
+      - name: Render language cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.repository_owner }}
+        run: python3 .github/scripts/language_cards.py dist
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
